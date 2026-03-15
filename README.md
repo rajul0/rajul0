@@ -1,16 +1,16 @@
 # ⚡ README.md
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rajul's%20Dev%20Space&fontSize=70&animation=fadeIn)
+![Header]([https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Rajul's%20Dev%20Space&fontSize=70&animation=fadeIn](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20there,%20I'm%20Sirajul%20Ilmi&textBg=false&fontSize=0&desc=Software%20Engineer&descSize=36&descAlign=50&descAlignY=59&rotate=0&fontAlignY=40&reversal=false&animation=blink))
 
 ### 👋 Hello, I'm Rajul!
-I am a **Fullstack Developer** specializing in building high-impact systems for the healthcare sector. Currently, I'm focusing on architecting hospital management solutions and real-time data delivery systems.
+I am a **Software Engineer** specializing in building high-impact systems for the healthcare sector. Currently, I'm focusing on architecting hospital management solutions and real-time data delivery systems.
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Languages
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,dart,python,arduino&perline=5&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,js,ts,dart,python,arduino&perline=10&titles=true)
 
 ### Frameworks
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=laravel,nextjs,flutter,expressjs&perline=5&titles=true)
@@ -33,7 +33,7 @@ I am a **Fullstack Developer** specializing in building high-impact systems for 
 * **Web Server:** IIS (Internet Information Services)
 
 ### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,composer,npm,vite,postman,git,gitbash,github,powershell,notion,jira&perline=5&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,composer,npm,vite,postman,git,gitbash,github,powershell,notion,jira&perline=10&titles=true)
 
 ---
 
@@ -60,4 +60,4 @@ When the compiler rests, I find my balance in the quiet spaces between logic and
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+![Footer]([https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Let's%20Connect&textBg=false&fontSize=0&descSize=36&descAlign=50&descAlignY=59&rotate=0&fontAlignY=50&reversal=false&section=footer&animation=blink))
