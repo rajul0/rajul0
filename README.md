@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi%20there,%20I'm%20Sirajul%20Ilmi&textBg=false&fontSize=0&desc=Software%20Engineer&descSize=36&descAlign=50&descAlignY=59&rotate=0&fontAlignY=40&reversal=false&animation=blink)
 
 ### 👋 Hello, I'm Rajul!
-I am a **Software Engineer** specializing in building high-impact systems for the healthcare sector. Currently, I'm focusing on architecting hospital management solutions and real-time data delivery systems.
+I am a **Software Engineer** specializing in building high-impact systems for the healthcare sector. Currently, I'm focusing on architecting and developing hospital management solutions and real-time data delivery systems with my team.
 
 ---
 
@@ -39,13 +39,12 @@ I am a **Software Engineer** specializing in building high-impact systems for th
 
 ## 🏗 Current Focus & Projects
 * **SIMANTAP-RS:** Lead development on an Asset and Inventory Management System for hospital infrastructure.
-* **PBJ-RS:** Developing a specialized E-Procurement system for healthcare medical supplies.
+* **PBJ-RS:** Developing a specialized E-Procurement system for healthcare medical and office supplies.
 
 ---
 
 ## Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajul0&show_icons=true&theme=radical)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rajul0)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajul0&layout=compact)
 
